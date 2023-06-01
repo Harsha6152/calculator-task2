@@ -15,8 +15,4 @@
 - CSS [for style/Presentation]
 - Javascript [for Logic/Working of calculator]
 
-## License 
 
-[MIT](https://github.com/web-codegrammer/Simple-Javascript-Calculator/blob/master/LICENSE)
-
-Issued to ```Devanshu Vashishtha``` | All Rights Reserved | 2020
